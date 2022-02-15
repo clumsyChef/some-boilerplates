@@ -1,7 +1,7 @@
 {
 	"name": "ts-webpack-boilerplate",
 	"version": "1.0.0",
-	"description": "This is a simple Typescript boilerplate with webpack as I will always find something with too many dependencies.",
+	"description": "There are lot of boilerplates out there but this is as simple as it gets for me atleast.",
 	"main": "index.js",
 	"scripts": {
 		"build:prod": "webpack --mode production",
